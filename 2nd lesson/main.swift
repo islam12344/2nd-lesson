@@ -8,8 +8,8 @@
 
 //3. Условные операторы if, else, elseif, switch.
 
-print("Введите город")
-let number = readLine()!
+//print("Введите город")
+//let number = readLine()!
 
 // > -> больше
 // >= -> больше или равно
@@ -21,11 +21,11 @@ let number = readLine()!
 // && -> и
 // || -> или
 
-let weather = "Биш"
-
-if weather == "Биш"{
-    print("сегодня +10, завтра +17, после завтра +24")
-}
+//let weather = "Биш"
+//
+//if weather == "Биш"{
+//    print("сегодня +10, завтра +17, после завтра +24")
+//}
 
 
 //if Int(number)! > 10 && Int(number)! < 20{
